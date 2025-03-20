@@ -132,7 +132,7 @@ calc.exchangeMoney([5], bank)
 calc.exchangeMoney([5], bank)
 print(bank.getNominals())
 print(calc._bankSize(bank))
-
+12
 
 <!---
 Mykyta-riabchenko/Mykyta-riabchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
